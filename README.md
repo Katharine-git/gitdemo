@@ -1,2 +1,2 @@
 # gitdemo
-git practice
+alert('i love coding')
